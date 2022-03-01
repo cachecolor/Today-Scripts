@@ -14,7 +14,7 @@ extern const NSString *TodayScriptScriptKey;
 extern const NSString *TodayScriptAutoRunKey;
 extern const NSString *TodayScriptShowStatusKey;
 
-// The protocol that this service will vend as its API. This header file will
+// The protocol that this service will vend as its API. This header file willpp
 // also need to be visible to the process hosting the service. Replace the API
 // of this protocol with an API appropriate to the service you are vending.
 
